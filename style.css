@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
  h1{
-  font-family: JavaScript syntax;
+  font-family: verdana;
  }
 
  h2{
   font-family: verdana;
+  font-style:italic;
  }
 
 p{
- font-family: JavaScript syntax;
+ font-family: verdana;
 }
 
 body {
